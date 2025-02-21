@@ -254,7 +254,7 @@ hr {
     max-width: 95vw;
   }
   .hangman-draw {
-    min-height: 52vh;
+    min-height: 45vh;
     width: 100%;
   }
   .letters {
